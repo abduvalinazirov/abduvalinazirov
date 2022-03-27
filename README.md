@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abduvali</h1>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2332B359&lines=I+am+Nazirov;Informatic+Enginering+Student;Fullstack+Developer;Always+learning+a+new+things;Happy+Coding+!!!">
+
 <h3 align="center">Student of TUIT🌟</h3>
 
 <br>
