@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abduvali</h1>
-<h3 align="center">Student of TUIT🌟</h3>
+<h3 align="center">Graduate of TATU🌟</h3>
 
 <br>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m MERN Stack Developer
 
-- 📫 How to reach me **abduvali.nazirov.0@gmail.com**
+- 📫 How to reach me **nazirov.abduvali.0@gmail.com**
 
 - ⚡ Fun fact :- food and anime are the reasons to live.
 
