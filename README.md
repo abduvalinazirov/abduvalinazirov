@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **nazirov.abduvali.0@gmail.com**
 
-- ⚡ Fun fact :- food and anime are the reasons to live.
 
 <br>
 
