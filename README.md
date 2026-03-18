@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I'm Abduvali</h1>
-<h3 align="center">MERN Stack Developer | TATU Graduate 🌟</h3>
+<h3 align="center">
+Full-Stack TypeScript Developer (React, Next.js, Node.js, PostgreSQL) <br/>
+Mobile Developer (React Native & Expo) 🚀
+</h3>
 
 <p align="center">
-  <a href="https://github.com/abduvalinazirov">
-    <img src="https://komarev.com/ghpvc/?username=abduvalinazirov&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=abduvalinazirov&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🚀 MERN Stack Developer (MongoDB, Express, React, Node.js)
-- 💡 Passionate about building scalable web apps
-- 🌱 Currently improving **Next.js & System Design**
+- 🚀 Full-Stack Developer (React + Next.js + Node.js)
+- 📱 Mobile App Developer (React Native + Expo)
+- 🧠 Strong in TypeScript & modern web/mobile technologies
+- 💡 Building scalable web & mobile applications
+- 🌱 Currently learning **System Design & Advanced Backend**
 - 📫 Reach me: **nazirov.abduvali.0@gmail.com**
 
 ---
@@ -28,7 +31,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,nestjs,mongodb,postgres,html,css,sass,bootstrap,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,postgres,mongodb,reactnative,expo,sass,bootstrap,git" />
 </p>
 
 ---
