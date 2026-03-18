@@ -29,7 +29,7 @@ Mobile Developer (React Native & Expo) 🚀
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://telegram.me/nazirov_a_77">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/telegram/229ED9" width="40" height="40"/>
   </a>
 </p>
 
@@ -37,14 +37,13 @@ Mobile Developer (React Native & Expo) 🚀
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <!-- main stack -->
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,postgres,mongodb,sass,bootstrap,git" />
   
-  <br/><br/>
+  <!-- React Native -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="react native"/>
   
-  <!-- extra -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="react native"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" width="40" height="40" alt="expo"/>
+  <!-- Expo (white bg fix) -->
+  <img src="https://cdn.simpleicons.org/expo/000000" width="48" height="48" style="background-color:white; border-radius:8px; padding:4px;" alt="expo"/>
 </p>
 
 ---
