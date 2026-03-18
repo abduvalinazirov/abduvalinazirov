@@ -22,16 +22,29 @@ Mobile Developer (React Native & Expo) 🚀
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/NazirovDev"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.instagram.com/nazirov_a_77/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://telegram.me/nazirov_a_77"><img src="https://skillicons.dev/icons?i=telegram" /></a>
+  <a href="https://www.linkedin.com/in/NazirovDev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/nazirov_a_77/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://telegram.me/nazirov_a_77">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,postgres,mongodb,reactnative,expo,sass,bootstrap,git" />
+  <!-- main stack -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,postgres,mongodb,sass,bootstrap,git" />
+  
+  <br/><br/>
+  
+  <!-- extra -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="react native"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" width="40" height="40" alt="expo"/>
 </p>
 
 ---
